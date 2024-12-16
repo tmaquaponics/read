@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: TMA Reading materials
+description: Reading materials for fishkeeping. Covers basics and advanced concepts, plus tutorials and references.
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://tmaquaponics.github.io/reads
 
 aux_links:
   Back to main: https://tmaquaponics.github.io
